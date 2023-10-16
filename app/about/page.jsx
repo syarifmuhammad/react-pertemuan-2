@@ -5,7 +5,7 @@ import CustomDataTable from "../components/CustomDataTable";
 
 export default function About() {
   return (
-    <TemplateAuth>
+    <TemplateAuth title="About Page">
       <CustomDataTable />
     </TemplateAuth>
   );
